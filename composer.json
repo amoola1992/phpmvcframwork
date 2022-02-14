@@ -1,0 +1,15 @@
+{
+    "name": "phpcodemvc/phpmvcframwork",
+    "authors": [
+        {
+            "name": "Amal Mansour",
+            "email": "loloamoola1992@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "phpcodemvc\\phpmvcframwork\\": "."
+        }
+    }
+}
